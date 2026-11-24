@@ -3,9 +3,9 @@
    ========================================================= */
 export const CONFIG = {
   notifyEmail: 'shubhsoni1399@gmail.com',   // form submit hone par details is mail par (FormSubmit.co)
-  phone: '919999999999',                    // country code ke saath, bina + / space
-  phoneDisplay: '+91 99999 99999',
-  whatsapp: '919999999999',                 // Pandit ji ka WhatsApp number
+  phone: '918305986994',                    // country code ke saath, bina + / space
+  phoneDisplay: '+91 8305986994',
+  whatsapp: '918305986994',                 // Pandit ji ka WhatsApp number
   email: 'info@mabaglamukhi.co',
   upiId: 'vikasvyas@upi',
   upiName: 'Pandit Vikas Vyas',

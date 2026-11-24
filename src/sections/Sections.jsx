@@ -457,7 +457,7 @@ export function FaqFull() {
 export const ContactSection = ({ timings }) => (
   <section className="section contact" id="contact">
     <div className="container">
-      <SectionHead eyebrow="हमसे जुड़ें" title={<><em>संपर्क</em> करें</>} />
+      <SectionHead eyebrow="हमसे जुड़ें" title={<><em>संपर्क</em> करें</>} /> 
       <div className="contact__cards">
         <a href={telHref} className="c-card reveal"><span className="c-card__ic"><PhoneIcon /></span><strong>फोन</strong><small>{CONFIG.phoneDisplay}</small></a>
         <a href={WA_DEFAULT} target="_blank" rel="noopener noreferrer" className="c-card reveal"><span className="c-card__ic"><WaIcon /></span><strong>WhatsApp</strong><small>{CONFIG.phoneDisplay}</small></a>
